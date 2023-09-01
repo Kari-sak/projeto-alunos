@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AlunosFIAP_Oracle1.props" />
+</Project>
